@@ -60,7 +60,7 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/linyuxuanlin/Wiki_Docusaurus/edit/main/',
+          editUrl: 'https://github.com/frankfif/Wiki_Docusaurus/edit/main/',
           sidebarCollapsible: true, //默认折叠
           routeBasePath: "/",
           showLastUpdateTime: false,
@@ -72,7 +72,7 @@ const config = {
 
         blog: {
           showReadingTime: false,
-          editUrl: 'https://github.com/linyuxuanlin/Wiki_Docusaurus/edit/main/',
+          editUrl: 'https://github.com/frankfif/Wiki_Docusaurus/edit/main/',
           //blogSidebarTitle: 'All posts',
           blogSidebarCount: 'ALL',
           postsPerPage: 8,
@@ -194,7 +194,7 @@ const config = {
           },
 
           {
-            href: 'https://github.com/linyuxuanlin/Wiki_Docusaurus',
+            href: 'https://github.com/frankfif/Wiki_Docusaurus',
             position: 'right',
             className: 'header-github-link',
             'aria-label': 'GitHub repository',
@@ -221,13 +221,13 @@ const config = {
           },
           {
             label: '资源仓库',
-            href: 'https://github.com/linyuxuanlin/File-host',
+            href: 'https://github.com/frankfif/File-host',
           },
 
           /*
           {
             label: '电源设计方案收集',
-            href: 'https://github.com/linyuxuanlin/Collection_of_Power_Module_Design',
+            href: 'https://github.com/frankfif/Collection_of_Power_Module_Design',
           },
           {
             href: "https://wiki.wildwolf.pw/",
@@ -235,7 +235,7 @@ const config = {
           },
           {
             label: '功能电路模块化',
-            href: 'https://github.com/linyuxuanlin/Modularity_of_Functional_Circuit',
+            href: 'https://github.com/frankfif/Modularity_of_Functional_Circuit',
           },
           
           {
