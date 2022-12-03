@@ -114,7 +114,7 @@ const config = {
       algolia: {
 
         apiKey: '02bd2340879bdb682f2a9fe509fec240',//5c07d8bf9c9928c4453857f6cad0420e?
-        indexName: 'wiki-power', //
+        indexName: 'frankfif', //
 
         // The application ID provided by Algolia
         appId: 'IRO903CONI', //BH4D9OD16A 是默认的，文档见 https://autocomplete-experimental.netlify.app/docs/docsearchmodal/#appid，用自己的 ID IRO903CONI 反而搜不出内容 
