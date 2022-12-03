@@ -10,7 +10,7 @@ const katex = require('rehype-katex');
 const config = {
   title: 'Power\'s Wiki',
   tagline: '^_^',
-  url: 'https://wiki-power.com',
+  url: 'https://www.tengfeihulian.com',
   baseUrl: '/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
